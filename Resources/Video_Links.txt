@@ -1,0 +1,144 @@
+Important question for Final Exam RPA
+
+https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/how-to/trigger-flow?source=recommendations
+
+________________________________________________________________________________________________________________
+
+Form Validation (Power Apps)
+https://youtu.be/lGD9bWEUNmg?si=fb9Tr3evWuXxJLrM ✅
+https://youtu.be/X6xQDQ1V240?si=xEs2c6Jl3LIkcjnC
+
+_____________________________________________________________________________________________________________
+
+CRUD OPerations
+ 
+https://www.youtube.com/watch?v=rKW6Rc70e7A ✅
+
+https://www.youtube.com/watch?v=GcimcQTsmFs 
+
+______________________________________________________________________________________________________________
+ 
+User Login
+https://www.youtube.com/watch?v=elOzIit31ws
+ 
+https://www.youtube.com/watch?v=BN74SsN4mm8 ✅
+
+https://www.youtube.com/watch?v=wpxpWavYV1w 
+_____________________________________________________________________________________________________________
+  
+Patch function (Power-App)
+https://youtu.be/ssWoj7UxvMo?si=uBsjL8BTtJlf7TrW ✅
+_____________________________________________________________________________________________________________
+ 
+Power app basics
+
+https://youtu.be/DNBWHi3XG5Y?si=ROsfwt59Bbm40S03
+ 
+https://youtu.be/Fr1NL_S49vo?si=jKqsGGLb8Imrr_2r
+
+____________________________________________________________________________________________________________
+
+Leave Request Approval Using Power Automate
+
+https://www.youtube.com/watch?v=2DgJKUnlUOg ✅
+https://www.youtube.com/watch?v=Ua0Lwjuj9dw ✅
+
+
+______________________________________________________________________________________________________________
+
+Power App First App
+ 
+1)Variables
+https://youtu.be/QEL7yhzKic4?si=vMKwTzYZX-gFXM7l
+ 
+2)Navigation
+https://youtu.be/cFInW0_2liY?si=QeWtucEigT3WE0M5
+ 
+3)Search and Filter
+https://www.youtube.com/watch?v=7InfAIOH0-8
+ 
+4) Connect through Google Drive
+https://www.youtube.com/watch?v=3Kcz5hAJBmg
+ 
+5) Validation
+https://www.youtube.com/watch?v=lGD9bWEUNmg
+ 
+https://www.youtube.com/watch?v=X6xQDQ1V240
+
+______________________________________________________________________________________________________
+
+
+Scraping 
+https://www.youtube.com/watch?v=DgBZiBIgh3w ✅
+
+________________________________________________________________________________________________________
+
+Excel automation 
+https://youtube.com/playlist?list=PLZVSOFwGx4zCP3RcwZaR3IJsYl7Vonm1L&si=e5ozkXvCE4hNuB_l 
+
+__________________________________________________________________________________________________________
+ 
+HR onboarding
+ 
+http://happybots.in/Employee-Onboarding-Process.html
+ 
+https://youtu.be/BS4_oNftDmk?si=K6Rrdo02JjTqnX5p ✅
+_______________________________________________________________________________________________________
+
+Scheduled Flow using Power Automate
+https://www.youtube.com/watch?v=1KJObD2SelM ✅
+________________________________________________________________________________________________________
+
+Browser automation
+https://www.spguides.com/loop-actions-in-power-automate-desktop/
+https://forms.Microsoft.com/r/pwQPQA8CA6
+________________________________________________________________________________________________________
+
+Gmail Automation using Power Automate
+https://www.youtube.com/watch?v=pPY3UK9XhAA&list=PLZVSOFwGx4zA3MluKzbxq5Nx18gj5kt5d&index=4 ✅
+
+_________________________________________________________________________________________________________
+
+Loops  [Power Automate Desktop (PAD)]
+https://learn.microsoft.com/en-us/power-automate/desktop-flows/use-loops
+https://learn.microsoft.com/en-us/training/modules/pad-loops/6-exercise-loops
+https://www.c-sharpcorner.com/article/loops-action-in-desktop-flow-using-microsoft-power-automate/
+https://www.spguides.com/loop-actions-in-power-automate-desktop/
+__________________________________________________________________________________________________________
+
+Switch Case and Loop Actions [Power Automate Desktop (PAD)]
+https://chercher.tech/power-automate-desktop/switch-case-power-automate-desktop
+https://chercher.tech/power-automate-desktop/loop-actions-power-automate-desktop
+
+__________________________________________________________________________________________________________
+
+List topic [Power Automate Desktop (PAD)]
+https://www.youtube.com/watch?v=4sZib-VrfYg ✅
+__________________________________________________________________________________________________________
+
+Desktop flow message types  [Power Automate Desktop (PAD)]
+https://youtu.be/A0_BSOlZrII?si=rTKJtYskcp_PNfmY  ✅
+
+___________________________________________________________________________________________________________
+
+Important links for Power Automate Desktop (PAD)
+https://learn.microsoft.com/en-us/power-automate/desktop-flows/variable-manipulation
+https://learn.microsoft.com/en-us/power-automate/desktop-flows/variable-data-types
+https://learn.microsoft.com/en-us/power-automate/desktop-flows/use-conditionals
+https://learn.microsoft.com/en-us/power-automate/desktop-flows/use-loops
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+ 
